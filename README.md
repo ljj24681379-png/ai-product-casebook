@@ -38,4 +38,3 @@
 - [AI 上下文工程实验](https://github.com/ljj24681379-png/ai-context-engineering)：把业务定义、SQL、分析规则、工具调用和证据校验放进同一条链路。
 - [AI 产品可靠性实验](https://github.com/ljj24681379-png/reliable-ai-agent)：用双路校验、可信等级、过程追溯和异常接管管理高风险结果。
 - [一人 AI 产品团队](https://github.com/ljj24681379-png/ai-product-team)：通过明确输入、输出和验收关系组织多 Agent 协作。
-
